@@ -1,5 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Nov 5, 2025, 08_51_03 AM" src="https://github.com/user-attachments/assets/20149c06-f35e-4f22-8657-62d4f75f3bf2" />
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/88776b86-6f05-4813-84f3-4495d40f2961" />
 
 Incremental ETL Pipeline with Apache Airflow
 
